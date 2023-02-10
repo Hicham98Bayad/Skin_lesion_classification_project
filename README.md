@@ -8,7 +8,7 @@
 2- Model using the segmentation mask: the characteristics will be extracted separately from
 lesion and skin<br><br>
 All related to this project can be found in the file "ImageMining Practical control.pdf" <br>
-And DataSet in the file .zip "https://drive.google.com/drive/folders/1yI91zpAanuiClvKiGMHuNKOoeKl6lxWF?usp=sharing" <br><br>
+And DataSet in the drive "https://drive.google.com/drive/folders/1yI91zpAanuiClvKiGMHuNKOoeKl6lxWF?usp=sharing" <br><br>
 The result of this project for model 1 in file "test_ImageEntiere.csv" <br><br>
 the result of this project for model 2 in file "test_utilisantMasque.csv"
 </h5>
