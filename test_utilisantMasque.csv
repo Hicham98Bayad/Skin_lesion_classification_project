@@ -1,0 +1,11 @@
+,imagesNane,SVM Prediction,KNN Prediction,TD Prediction
+0,IMD006,Non-Melanoma,Non-Melanoma,Non-Melanoma
+1,IMD018,Non-Melanoma,Non-Melanoma,Non-Melanoma
+2,IMD088,Non-Melanoma,Non-Melanoma,Non-Melanoma
+3,IMD090,Non-Melanoma,Melanoma,Melanoma
+4,IMD138,Non-Melanoma,Non-Melanoma,Non-Melanoma
+5,IMD155,Non-Melanoma,Non-Melanoma,Non-Melanoma
+6,IMD164,Non-Melanoma,Non-Melanoma,Non-Melanoma
+7,IMD166,Non-Melanoma,Non-Melanoma,Non-Melanoma
+8,IMD207,Non-Melanoma,Non-Melanoma,Non-Melanoma
+9,IMD208,Non-Melanoma,Non-Melanoma,Non-Melanoma
